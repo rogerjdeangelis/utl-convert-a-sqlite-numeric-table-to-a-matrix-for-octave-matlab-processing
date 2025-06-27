@@ -4,8 +4,11 @@
 
 Convert a sqlite numeric table to a matrix for octave matlab processing;
 
+github
+https://tinyurl.com/2weexse6
+https://github.com/rogerjdeangelis/utl-convert-a-sqlite-numeric-table-to-a-matrix-for-octave-matlab-processing
 
-elated
+related
 https://tinyurl.com/2r9ekpn8
 https://github.com/rogerjdeangelis/utl-how-to-store-octave-matlab-objects-in-external-files-for-later-use-with-octave-r-and-python
 
